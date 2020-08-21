@@ -14,7 +14,7 @@ pip install allure-python-commons
 
 二.下载allure-commandline 解压并添加环境变量，执行allure --version查看是否配置成功
 
-http://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
+https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
 
 
 三.终端执行指令生成结果,pytest会在目录下自动找test开头的py文件
